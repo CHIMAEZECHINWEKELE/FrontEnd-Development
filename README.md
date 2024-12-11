@@ -15,7 +15,7 @@
 
 - 🤝 I’m looking for help with **Cloud Security and DevOps**
 
-- 📝 I regularly write articles on Medium [https://medium.com/@chimaezechinwekele](https://medium.com/@chimaezechinwekele)
+- 📝 I regularly write articles on [Medium](https://medium.com/@chimaezechinwekele)
 
 - 📫 How to reach me **chimaezechinwekele@gmail.com**
 
