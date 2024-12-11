@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Chima</h1>
-<h3 align="center">A passionate Cybersecurity Analyst from Nigeria</h3>
+<h3 align="center">A passionate Cybersecurity Analyst currently tranitioning into the field</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimaezechinwekele&label=Profile%20views&color=0e75b6&style=flat" alt="chimaezechinwekele" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/chima_eze__" target="blank"><img src="https://img.shields.io/twitter/follow/chima_eze__?logo=twitter&style=for-the-badge" alt="chima_eze__" /></a> </p>
 
-- 🔭 I’m currently working on **SOC**
+- 🔭 I’m currently working on **SOC Analysis**
 
 - 🌱 I’m currently learning **Honeypot Setup, Malware Analysis, Firewall Setup and Network Vulnerability Scanning,**
 
@@ -33,20 +33,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chimaezechinwekele&show_icons=true&locale=en" alt="chimaezechinwekele" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chimaezechinwekele&" alt="chimaezechinwekele" /></p>
 
-
-
-
-
-# Hello, I'm Chima
-
-
-👨‍💻I'm a cybersecurity professional with a keen interest in SOC, GRC, Ethical Hacking, Digital Forensics, and Cloud Security.<br/>
-🙎I'll be sharing about my journey and experiences in tech here.<br/>
-👨‍🎓Studied Quantity Surveying and currently transitioning to Cybersecurity.<br/>
-🧑‍💻Making researches and writing about my findings on [Medium](https://medium.com/@chimaezechinwekele)<br/>
-🌨️I'm currently learning about SOC <br/>
 
 
 
