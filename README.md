@@ -8,8 +8,9 @@ Passionate about tech and AI, diving into cybersecurity to protect our digital w
 <h2> Objective </h2> 
 My fascination with technology and artificial intelligence (AI) sparked my interest in cybersecurity. I'm now driven to delve deeper into securing the ever-evolving landscape of information, software, and devices. My ultimate goal is to join a Security Operations Center (SOC) as a Tier 1 Analyst, where i can actively contribute to safeguarding these critical systems. 
 
-<h2> Skills</h2> 
-|              Skill                                                                 |         Associated Project             |   <br>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMAEZECHINWEKELE)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CHIMAEZECHINWEKELE&show_icons=true&theme=radical&hide_rank=fale)
 
 
 
