@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Chima</h1>
 <h3 align="center">A very passionate Cybersecurity Analyst </h3>
 
+## Changes
+   Git to Github changes
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chimaezechinwekele&label=Profile%20views&color=0e75b6&style=flat" alt="chimaezechinwekele" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimaezechinwekele" alt="chimaezechinwekele" /></a> </p>
+<p align="l eft"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chimaezechinwekele" alt="chimaezechinwekele" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/chima_eze__" target="blank"><img src="https://img.shields.io/twitter/follow/chima_eze__?logo=twitter&style=for-the-badge" alt="chima_eze__" /></a> </p>
 
