@@ -1,0 +1,19 @@
+*{
+  background-color: salmon;
+}
+
+.sidebar{
+  position: fixed;
+  background-color: black;
+  width: 300px;
+  height: 100vh;
+  top: 0;
+  right: 0;  
+  /* if you want it to stay at the right side; right: 0; */
+  display: none; 
+  /* if you want the sidebar to be invisible until it's clicked */
+}
+
+.open .sidebar{
+  display: block;
+}
