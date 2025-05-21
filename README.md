@@ -1,6 +1,6 @@
 # Frontend Development Projects 🚀
 
-Hi there! 👋 I'm [Your Name], a frontend developer passionate about crafting beautiful, responsive, and user-friendly web experiences.
+Hi there! 👋 I'm Chima, a frontend developer passionate about crafting beautiful, responsive, and user-friendly web experiences.
 
 ## 🛠️ Tech Stack
 - **Core**: HTML5, CSS3, JavaScript (ES6+)
