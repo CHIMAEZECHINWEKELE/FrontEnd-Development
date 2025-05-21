@@ -77,8 +77,11 @@ Passing CI checks
 📄 License
 MIT Licensed - See LICENSE.md
 
-💻 Happy Coding! Connect with me: 
-<br>
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/chimaeze-chinwekele-samuel-00208629a/)
-![X (Twitter)](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)
-(https://x.com/Chima_Eze__)
+💻 **Happy Coding! Let's Connect  
+
+<a href="https://www.linkedin.com/in/chimaeze-chinwekele-samuel-00208629a/">
+  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn">
+</a>
+<a href="https://x.com/Chima_Eze__">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" alt="X/Twitter">
+</a>
