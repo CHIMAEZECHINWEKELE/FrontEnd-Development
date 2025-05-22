@@ -1,87 +1,19 @@
-# Frontend Development Projects 🚀
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 
-Hi there! 👋 I'm Chima, a frontend developer passionate about crafting beautiful, responsive, and user-friendly web experiences.
-
-## 🛠️ Tech Stack
-- **Core**: HTML5, CSS3, JavaScript (ES6+)
-- **Frameworks**: React.js, Vue.js, [Others]
-- **Styling**: Sass, CSS Modules, Tailwind CSS
-- **Tools**: npm/yarn, Webpack, Vite, Git
-- **Design**: Figma, Adobe XD, Responsive Design
-- **Testing**: Jest, React Testing Library
-
-## 🌟 Features
-- Mobile-first responsive design
-- Interactive UI components
-- Modern CSS techniques (Grid, Flexbox)
-- API integration
-- Web accessibility (a11y)
-- Performance optimization
-
-## 📂 Project Structure
-Here's an overview of the main files and directories:
-
-```bash
-project-root/
-├── public/ # Static assets
-├── src/ # Source files
-│ ├── components/ # Reusable components
-│ ├── styles/ # Global/CSS files
-│ ├── utils/ # Helper functions
-│ └── ...
-├── package.json # Dependencies
-└── README.md # Project docs
-```
+# Hello World!, I'm Chima, a Nigerian Web Developer 👋🏼:
+🛜 currently working on my own [webpage](https://github.com/CHIMAEZECHINWEKELE/FrontEnd-Development)<br>👨🏼‍🎓 studying media based computer science at Berliner Hochschule für Technik<br>👨🏼‍💻 working as a web developer since 2022 <br>🎬 just started out with my youtube channel <i>tobi tackles tech</i>
 
 
-## 🚀 Getting Started
-1. Clone repo
-   ```bash
-   git clone https://github.com/your-username/project-name.git
-Install dependencies
+# 💻 Tech Stack:
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) 
 
-bash
-npm install
-Start dev server
-
-bash
-npm run dev
-📝 Best Practices
-Semantic HTML for accessibility
-
-BEM naming for CSS (.block__element--modifier)
-
-Component-based architecture
-
-Clean code with meaningful names
-
-Atomic Git commits with conventional messages
-
-Detailed documentation
-
-🤝 Contribution
-Suggestions welcome! Please:
-
-Open an issue to discuss changes
-
-Fork repo and create feature branch
-
-Submit PR with:
-
-Tests for new features
-
-Updated documentation
-
-Passing CI checks
-
-📄 License
-MIT Licensed - See LICENSE.md
-
-💻 **Happy Coding! Let's Connect  
-
-<a href="https://www.linkedin.com/in/chimaeze-chinwekele-samuel-00208629a/">
-  <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" height="30" alt="LinkedIn">
-</a>
-<a href="https://x.com/Chima_Eze__">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/5/5a/X_icon_2.svg" height="30" alt="X/Twitter">
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
